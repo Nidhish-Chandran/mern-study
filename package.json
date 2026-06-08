@@ -1,5 +1,24 @@
 {
+  "name": "mernstack",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Nidhish-Chandran/mern-study#readme",
+  "bugs": {
+    "url": "https://github.com/Nidhish-Chandran/mern-study/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nidhish-Chandran/mern-study.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "cfn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "dependencies": {
-    "readline-sync": "^1.4.10"
+    "readline-sync": "^1.4.10",
+    "upper-case": "^2.0.2"
   }
 }
